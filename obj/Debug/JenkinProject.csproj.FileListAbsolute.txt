@@ -1,0 +1,6 @@
+C:\Users\rishu\Source\Repos\Jenkins2\obj\Debug\JenkinProject.csprojAssemblyReference.cache
+C:\Users\rishu\Source\Repos\Jenkins2\bin\Debug\JenkinProject.exe.config
+C:\Users\rishu\Source\Repos\Jenkins2\bin\Debug\JenkinProject.exe
+C:\Users\rishu\Source\Repos\Jenkins2\bin\Debug\JenkinProject.pdb
+C:\Users\rishu\Source\Repos\Jenkins2\obj\Debug\JenkinProject.exe
+C:\Users\rishu\Source\Repos\Jenkins2\obj\Debug\JenkinProject.pdb
