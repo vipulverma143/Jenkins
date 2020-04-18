@@ -12,7 +12,7 @@ namespace JenkinProject
         static void Main(string[] args)
         {
             var print = new Print();
-            print.PrintSomething("Test");
+            print.PrintSomething("Test1");
             
 
         }
